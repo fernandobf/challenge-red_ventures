@@ -47,7 +47,7 @@ Seguindo a ideia proposta, não utilizei nenhum *framework/library* de terceiros
 **CARROSSEL:**  o carrossel só é aplicado corretamente quando acessado diretamente pelo `viewport` final (`<= 600px`) ou depois de recarregar a página. Isso acontece porque o script somente é aplicado na versão `mobile`.
 *Nota: por ter optado por um carrossel bem simples e leve, ele mostrou-se limitado em alguns aspectos.*
 
-**API:** Quando os valores  `no`, `daily` e `true` são definidos nos campos `sun`, `water` e `pets` respectivamente, a `api` retorna um `status 404`. De qualquer forma, tomei a liberdade de criar um feedback generalista para os usuários em caso de erro.
+**API:** Quando acessado o projeto pela primeira vez e ao definir os valores  `no`, `daily` e `true` são definidos nos campos `sun`, `water` e `pets` respectivamente, a `api` retorna um `status 404`. De qualquer forma, tomei a liberdade de criar um feedback generalista para os usuários em caso de erro.
 
 **ARQUIVOS:** Para facilitar a legibilidade e consequente avaliação do código, optei por não minificá-los.
 
