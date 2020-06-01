@@ -1,5 +1,5 @@
 # Green Thumb.
-Green Thumb é um projeto desenvolvido como etapa do processo seletivo para a [Red Ventures](https://www.redventures.com/), baseado em um [layout](https://www.figma.com/file/y1TXkR9PKMOOgnjctWkvxI/greenthumb-pocket) específico.
+Green Thumb é um projeto desenvolvido como etapa do processo seletivo para a [Red Ventures](https://www.redventures.com/) e baseado em um [layout](https://www.figma.com/file/y1TXkR9PKMOOgnjctWkvxI/greenthumb-pocket) específico.
 
 Temporariamente, o projeto estará disponível neste [link](https://fernandofigueroa.000webhostapp.com/).
 
