@@ -49,7 +49,7 @@ Seguindo a ideia proposta, não utilizei nenhum *framework/library* de terceiros
 
 **API:** Quando os valores  `no`, `daily` e `true` são definidos nos campos `sun`, `water` e `pets` respectivamente, a `api` retorna um `status 404`. De qualquer forma, tomei a liberdade de criar um feedback generalista para os usuários em caso de erro.
 
-**ARQUIVOS:** Para facilitar a legibilidade e conseguente avaliação do código, optei por não minificá-los.
+**ARQUIVOS:** Para facilitar a legibilidade e consequente avaliação do código, optei por não minificá-los.
 
 ## Considerações finais
 
