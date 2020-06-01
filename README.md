@@ -44,7 +44,7 @@ Seguindo a ideia proposta, não utilizei nenhum *framework/library* de terceiros
 
 **ASSETS:** para os elementos que representam cada um dos critérios selecionados, optei por usar `svg` ao invés de uma família inteira de fonte. Para as setas, logotipo e demais imagens decorativas, fiz a importação de imagens (em formato `.png` e otimizadas com o [PNG Tiny](https://tinypng.com/)).
 
-**CARROSSEL:**  o carrossel só é aplicado corretamente quando acessado diretamente pelo `viewport` final (`<= 600px`) ou depois de carregar a página. Isso acontece porque o script somente é aplicado na versão `mobile`.
+**CARROSSEL:**  o carrossel só é aplicado corretamente quando acessado diretamente pelo `viewport` final (`<= 600px`) ou depois de recarregar a página. Isso acontece porque o script somente é aplicado na versão `mobile`.
 *Nota: por ter optado por um carrossel bem simples e leve, ele mostrou-se limitado em alguns aspectos.*
 
 **API:** Quando os valores  `no`, `daily` e `true` são definidos nos campos `sun`, `water` e `pets` respectivamente, a `api` retorna um `status 404`. De qualquer forma, tomei a liberdade de criar um feedback generalista para os usuários em caso de erro.
