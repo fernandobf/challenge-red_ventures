@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0">
+        <meta name="theme-color" content="#1A825A">
+        <meta name="apple-mobile-web-app-status-bar-style" content="#1A825A">
+        <meta name="Description" content="nature, plants, simulator, discovery, red ventures, offer">
+        <link rel="shortcut icon" href="img/favico.png">
+        <title>Green Thumb. | Find your next green friend</title>
+        <link rel="stylesheet" type="text/css" href="css/styles.css" />
+    </head>
+    <body>
+        <div id="spinner">
+            <div class="sk-cube-grid">
+                <div class="sk-cube sk-cube1"></div>
+                <div class="sk-cube sk-cube2"></div>
+                <div class="sk-cube sk-cube3"></div>
+                <div class="sk-cube sk-cube4"></div>
+                <div class="sk-cube sk-cube5"></div>
+                <div class="sk-cube sk-cube6"></div>
+                <div class="sk-cube sk-cube7"></div>
+                <div class="sk-cube sk-cube8"></div>
+                <div class="sk-cube sk-cube9"></div>
+            </div>    
+        </div>                  
+        <div class="selection">
+            <div class="page-content">
+                <h1 class="logo"><span>Green Thumb.</span></h1>
+                <h2>Find your next green friend</h2>
+                <form id="form">
+                    <div>
+                        <img src="img/ico-01.png" alt="">
+                        <p><span>1.</span> Set the amount of <span>sunlight</span> your plant will get.</p>
+                        <span class="wrapper-item">
+                            <select name="" id="sun">
+                                <option value="">Select...</option>
+                                <option value="high">Hight</option>
+                                <option value="low">Low</option>
+                                <option value="no">No</option>
+                            </select>    
+                        </span>
+                    </div>
+                    <div>
+                        <img src="img/ico-02.png" alt="">
+                        <p><span>2.</span> How often do you want to <span>water</span> your plant?</p>
+                        <span class="wrapper-item">                            
+                            <select name="" id="water">
+                                <option value="">Select...</option>
+                                <option value="daily">Daily</option>
+                                <option value="regularly">Regularly</option>
+                                <option value="rarely">Rarely</option>
+                            </select>
+                        </span>    
+                    </div>
+                    <div>
+                        <img src="img/ico-03.png" alt="">
+                        <p><span>3.</span> Do you have pets? Do they <span>chew</span> plants?</p>
+                        <span class="wrapper-item">
+                            <select name="" id="pets">
+                                <option value="">Select...</option>
+                                <option value="true">Yes</option>
+                                <option value="false">Not</option>
+                            </select>
+                        </span>    
+                    </div>
+                </form>    
+            </div>
+        </div>
+        <div class="result">
+            <div class="page-content" id="target" >
+                <span>
+                    <h2 id="errorTitle">No results yet…</h2>
+                    <p id="errorDescription">Use the filters above to find the plant that best fits your environment :)</p>    
+                </span>
+                <img src="img/decoration-default.png" alt="">
+            </div>
+        </div>
+        <script defer src="js/scripts.js"></script>
+    </body>
+</html>
