@@ -1,16 +1,17 @@
 # Green Thumb.
-Green Thumb é um projeto desenvolvido como etapa do processo seletivo para a [Red Ventures]([https://www.redventures.com/](https://www.redventures.com/)), baseado em um [layout](https://www.figma.com/file/y1TXkR9PKMOOgnjctWkvxI/greenthumb-pocket) específico.
+Green Thumb é um projeto desenvolvido como etapa do processo seletivo para a [Red Ventures](https://www.redventures.com/), baseado em um [layout](https://www.figma.com/file/y1TXkR9PKMOOgnjctWkvxI/greenthumb-pocket) específico.
+
 Temporariamente, o projeto estará disponível neste [link](https://fernandofigueroa.000webhostapp.com/).
 
 ## Informações técnicas
 
 #### Execução
  - Clone ou faça o download do projeto a partir do [`github`](https://github.com/fernandobf/challenge-red_ventures):
- - Instale o [node](https://www.npmjs.com/package/node):
+ - Instale o [`node`](https://www.npmjs.com/package/node):
   ```sh
 npm i node
 ```
- - Instale o [Live Server](https://www.npmjs.com/package/live-server) (ou qualquer outro servidor local de sua preferência):
+ - Instale o [`Live Server`](https://www.npmjs.com/package/live-server) (ou qualquer outro servidor local de sua preferência):
   ```sh
 npm install -g live-server
 ```
@@ -37,7 +38,7 @@ root/
 Um dos requisitos do teste solicitava para:
 > "*não utilizar nenhum framework (Angular, React, Ember, Vue, etc)*"
 
-Seguindo a ideia proposta, não utilizei nenhum *framework/library* de terceiros, seja em `JavaScript` ou `CSS`.
+Seguindo a ideia proposta, não utilizei nenhum *framework/library* de terceiros, seja em `JavaScript` ou `CSS`, ao mesmo que tempo tentei ser o menos verboso possível, priorizando um código simples e enxuto. 
 
 **RESPONSIVIDADE:** O projeto contempla apenas as versões `mobile` e `desktop`, tendo seu break-point definido em `600px`.
 
@@ -56,6 +57,8 @@ Espero que o trabalho apresentado esteja dentro da ideia proposta e que o mesmo 
 Torcendo para que tudo dê certo e que em breve possamos estar juntos, saúdo à todos. :) 
 
 #### Sobre o autor
-**Developed by:** [fernandobf](mailto:fernandobf@globo.com).
+**Developed by:** [fernandobf](mailto:fernandobf@globo.com)
+
 **Contact:** [fernandobf@globo.com](mailto:fernandobf@globo.com)
+
 **LinkedIn:** [https://www.linkedin.com/in/fernandobf/](mailto:https://www.linkedin.com/in/fernandobf/)
