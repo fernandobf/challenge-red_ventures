@@ -38,7 +38,7 @@ root/
 Um dos requisitos do teste solicitava para:
 > "*não utilizar nenhum framework (Angular, React, Ember, Vue, etc)*"
 
-Seguindo a ideia proposta, não utilizei nenhum *framework/library* de terceiros, seja em `JavaScript` ou `CSS`, ao mesmo que tempo tentei ser o menos verboso possível, priorizando um código simples e enxuto. 
+Seguindo a ideia proposta, não utilizei nenhum *framework/library* de terceiros, seja em `JavaScript` ou `CSS`, ao mesmo tempo que tentei ser o menos verboso possível, priorizando um código simples e enxuto. 
 
 **RESPONSIVIDADE:** O projeto contempla apenas as versões `mobile` e `desktop`, tendo seu break-point definido em `600px`.
 
