@@ -34,7 +34,7 @@ root/
  - `CSS3`
  - `JS Vanilha / ES6`
 
-## Sobre o desafio:
+## Sobre o desafio
 Um dos requisitos do teste solicitava para:
 > "*não utilizar nenhum framework (Angular, React, Ember, Vue, etc)*"
 
