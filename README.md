@@ -57,7 +57,7 @@ Espero que o trabalho apresentado esteja dentro da ideia proposta e que o mesmo 
 Torcendo para que tudo dê certo e que em breve possamos estar juntos, saúdo à todos. :) 
 
 #### Sobre o autor
-**Developed by:** fernandobf
+**Developed by:** fernandobf  
 
 **Contact:** [fernandobf@globo.com](mailto:fernandobf@globo.com)
 
